@@ -131,12 +131,11 @@ File ini menangani operasi terkait pengguna dalam database, seperti autentikasi 
 
 ### 1. **Kloning Repository**
 ```sh
-git clone https://github.com/username/repository.git
-cd repository
+git clone https://github.com/MardaOneli/web-template.git
+cd web-template
 ```
 
 ### 2. **Buat Database & Konfigurasi Koneksi**
-- Import `database.sql` ke MariaDB.
 - Sesuaikan konfigurasi di `config/database.php`.
 
 ### 3. **Jalankan Server Lokal**
